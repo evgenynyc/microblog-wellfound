@@ -6,7 +6,7 @@ Your task is to update the home page of this Flask app to display all of the row
 
 Clone/fork this repository and make a commit with this change. After you've made your changes, please take a screenshot of the updated home page and include it in the README of your public repository. Finally, email the link to your public repository to clayton.bridge@wellfound.co, and please include your full name in the email!
 
-![Alt text](/Feb_13_2022_Screenshot.png.jpg?raw=true)
+(https://postimg.cc/v4ZXz2Ph)
 <BR><BR>
 
 ## Contributions
